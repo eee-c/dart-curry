@@ -27,8 +27,10 @@ curried_1_10(10); // => 21
 
 This library originated from a series of blog posts exploring the functional nature of Dart:
 
- * [Baby Steps Towards Currying in Dart](http://japhr.blogspot.com/2013/11/baby-steps-towards-currying-in-dart.html) * [Basic Currying Function in Dart](http://japhr.blogspot.com/2013/11/basic-currying-function-in-dart.html)
- * [WARNING: Possible call() abuse in Dart](http://japhr.blogspot.com/2013/11/warning-possible-call-abuse-in-dart.html) * [Real, Live Currying of Dart Functions](http://japhr.blogspot.com/2013/11/real-live-currying-of-dart-functions.html)
+ * [Baby Steps Towards Currying in Dart](http://japhr.blogspot.com/2013/11/baby-steps-towards-currying-in-dart.html)
+ * [Basic Currying Function in Dart](http://japhr.blogspot.com/2013/11/basic-currying-function-in-dart.html)
+ * [WARNING: Possible call() abuse in Dart](http://japhr.blogspot.com/2013/11/warning-possible-call-abuse-in-dart.html)
+ * [Real, Live Currying of Dart Functions](http://japhr.blogspot.com/2013/11/real-live-currying-of-dart-functions.html)
 
 
 ##License
