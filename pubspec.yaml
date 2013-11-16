@@ -1,0 +1,8 @@
+name: curry
+version: 0.0.1
+description: Simple curry library for Dart.
+authors:
+- Chris Strom <chris@eeecomputes.com>
+homepage: https://github.com/eee-c/dart-curry
+dev_dependencies:
+  unittest: any
