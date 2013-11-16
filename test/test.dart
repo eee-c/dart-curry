@@ -34,5 +34,12 @@ main() {
       var curried_1 = Curry.make(add, 1);
       expect(curried_1(2)(3), 6);
     });
+
+    test('intermediate curried function', (){
+      var curried_1 = Curry.make(add, 1);
+      var curried_1_10 = curried_1(10);
+      //curried_1_10(10); // => 21
+      expect(curried_1_10(10), 21);
+    });
   });
 }
